@@ -1,0 +1,1582 @@
+{
+ "alternate_names": [
+  "Lee Ji Eun (\uc774\uc9c0\uc740)"
+ ],
+ "api_path": "/artists/264991",
+ "description": {
+  "plain": "One of South Korea\u2019s most beloved solo female artists, Lee Ji-Eun, better known as IU, is a singer-songwriter and actress under the agency EDAM Entertainment.\n\nThe singer first debuted with the EP Lost and Found in 2008 at the age of 15. She then went on to release two more albums before releasing \u201cGood Day,\u201d in 2010, which became a hit-sensation and brought her to national stardom.\n\nAs of March 2014, IU made her fifth No. 1 on the K-Pop Hot 100 Chart, a feat comparable to BIGBANG and EXO.\n\nAside from her fresh charms that got her dubbed as the \u201cNation\u2019s Little Sister,\u201d she has also shown other sides of herself with more classical-orientated albums such as Modern Times, which are reminiscent of Broadway musicals. IU has also showcased her dramatic acting abilities, the most recent being Moon Lovers: Scarlet Heart Ryeo and Hotel Del Luna.\n\nIn an interview with Chosun Ilbo, IU explained that her stage name was chosen by her agency:\n\n\u2018I\u2019 and \u2018You\u2019 become one through music.\"\n\nShe celebrated her 10th anniversary with the single, \u201cBBIBBI,\u201d marking her first attempt at alternative R&B."
+ },
+ "facebook_name": "iu.loen",
+ "followers_count": 203,
+ "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+ "id": 264991,
+ "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+ "instagram_name": "dlwlrma",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "IU (\uc544\uc774\uc720)",
+ "translation_artist": false,
+ "twitter_name": "lily199iu",
+ "url": "https://genius.com/artists/Iu",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3247832,
+  "annotator_login": "Ruckus1604",
+  "api_path": "/referents/7046031",
+  "classification": "accepted",
+  "fragment": "IU (\uc544\uc774\uc720)",
+  "id": 7046031,
+  "is_description": true,
+  "path": "/7046031/Iu/Iu",
+  "range": {
+   "content": "IU (\uc544\uc774\uc720)"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7046031/Iu/Iu",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/264991",
+   "context": null,
+   "id": 264991,
+   "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+   "link_title": "IU (\uc544\uc774\uc720)",
+   "title": "IU (\uc544\uc774\uc720)",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Iu"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7046031",
+    "body": {
+     "plain": "One of South Korea\u2019s most beloved solo female artists, Lee Ji-Eun, better known as IU, is a singer-songwriter and actress under the agency EDAM Entertainment.\n\nThe singer first debuted with the EP Lost and Found in 2008 at the age of 15. She then went on to release two more albums before releasing \u201cGood Day,\u201d in 2010, which became a hit-sensation and brought her to national stardom.\n\nAs of March 2014, IU made her fifth No. 1 on the K-Pop Hot 100 Chart, a feat comparable to BIGBANG and EXO.\n\nAside from her fresh charms that got her dubbed as the \u201cNation\u2019s Little Sister,\u201d she has also shown other sides of herself with more classical-orientated albums such as Modern Times, which are reminiscent of Broadway musicals. IU has also showcased her dramatic acting abilities, the most recent being Moon Lovers: Scarlet Heart Ryeo and Hotel Del Luna.\n\nIn an interview with Chosun Ilbo, IU explained that her stage name was chosen by her agency:\n\n\u2018I\u2019 and \u2018You\u2019 become one through music.\"\n\nShe celebrated her 10th anniversary with the single, \u201cBBIBBI,\u201d marking her first attempt at alternative R&B."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7046031,
+    "pinned": false,
+    "share_url": "https://genius.com/7046031",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7046031/Iu/Iu",
+    "verified": false,
+    "votes_total": 58,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.7340425531914893,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3247832",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/431511794a2242512830d7e3b6fc4a79",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/431511794a2242512830d7e3b6fc4a79",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/431511794a2242512830d7e3b6fc4a79",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/431511794a2242512830d7e3b6fc4a79",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/YYqOCogkRXGm9h5RuP76_seoul-police-from-the-mapo-district-have-arrested-the-perpetrator-of-a-long-series-of-incendiary-online-comments-against-yg-entertainment-artists.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3247832,
+       "iq": 43846,
+       "login": "Ruckus1604",
+       "name": "Ruckus1604",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Ruckus1604",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.14893617021276595,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1931244",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f45814fd26ee32464af77c72e7e0e3d0.1000x750x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1931244,
+       "iq": 331926,
+       "login": "eatthemooncake",
+       "name": "\u200beatthemooncake",
+       "role_for_display": "editor",
+       "url": "https://genius.com/eatthemooncake",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0851063829787234,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3323050",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3b864f6eac547d6fe1cbe14705d4a178",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3b864f6eac547d6fe1cbe14705d4a178",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3b864f6eac547d6fe1cbe14705d4a178",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3b864f6eac547d6fe1cbe14705d4a178",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/3b864f6eac547d6fe1cbe14705d4a178",
+       "human_readable_role_for_display": null,
+       "id": 3323050,
+       "iq": 265,
+       "login": "hunny_yang",
+       "name": "hunny_yang",
+       "role_for_display": null,
+       "url": "https://genius.com/hunny_yang",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.026595744680851064,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7070936",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/6d9e99f7076c43d892c37c16588b104a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/6d9e99f7076c43d892c37c16588b104a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/6d9e99f7076c43d892c37c16588b104a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/6d9e99f7076c43d892c37c16588b104a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f533b19ed86a61f496ce5d35cc399821.500x500x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 7070936,
+       "iq": 177307,
+       "login": "biojaeson",
+       "name": "\u200bbiojaeson",
+       "role_for_display": "editor",
+       "url": "https://genius.com/biojaeson",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005319148936170213,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7748793",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/0d50195883b8d6d822eae141b26bd7be",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/0d50195883b8d6d822eae141b26bd7be",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/0d50195883b8d6d822eae141b26bd7be",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/0d50195883b8d6d822eae141b26bd7be",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/d53e59c5da7193382d03112e37bcf42b.1000x569x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7748793,
+       "iq": 47020,
+       "login": "LukeNolastname",
+       "name": "LukeNolastname",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/LukeNolastname",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5563438",
+   "artist_names": "IU (\uc544\uc774\uc720)",
+   "full_title": "4AM by\u00a0IU\u00a0(\uc544\uc774\uc720)",
+   "header_image_thumbnail_url": "https://images.genius.com/dbf66e42dd8ef0cb3df2e5078d0c7d8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/dbf66e42dd8ef0cb3df2e5078d0c7d8d.600x600x1.jpg",
+   "id": 5563438,
+   "lyrics_owner_id": 7070936,
+   "lyrics_state": "complete",
+   "path": "/Iu-4am-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/dbf66e42dd8ef0cb3df2e5078d0c7d8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/dbf66e42dd8ef0cb3df2e5078d0c7d8d.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "4AM",
+   "title_with_featured": "4AM",
+   "url": "https://genius.com/Iu-4am-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/264991",
+    "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+    "id": 264991,
+    "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "IU (\uc544\uc774\uc720)",
+    "url": "https://genius.com/artists/Iu"
+   },
+   "apple_music_id": "484346312",
+   "apple_music_player_url": "https://genius.com/songs/5563438/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5563438' class='rg_embed_link' data-song-id='5563438'>Read <a href='https://genius.com/Iu-4am-lyrics'>\u201c4AM\u201d by IU\u00a0(\uc544\uc774\uc720)</a> on Genius</div> <script crossorigin src='//genius.com/songs/5563438/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-11-29",
+   "release_date_for_display": "November 29, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/255559",
+    "cover_art_url": "https://images.genius.com/dbf66e42dd8ef0cb3df2e5078d0c7d8d.600x600x1.jpg",
+    "full_title": "Last Fantasy by IU (\uc544\uc774\uc720)",
+    "id": 255559,
+    "name": "Last Fantasy",
+    "url": "https://genius.com/albums/Iu/Last-fantasy",
+    "artist": {
+     "api_path": "/artists/264991",
+     "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+     "id": 264991,
+     "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "IU (\uc544\uc774\uc720)",
+     "url": "https://genius.com/artists/Iu"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7070936,
+    "annotator_login": "biojaeson",
+    "api_path": "/referents/19827513",
+    "classification": "needs_exegesis",
+    "fragment": "4AM",
+    "id": 19827513,
+    "is_description": true,
+    "path": "/19827513/Iu-4am/4am",
+    "range": {
+     "content": "4AM"
+    },
+    "song_id": 5563438,
+    "url": "https://genius.com/19827513/Iu-4am/4am",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5563438",
+     "client_timestamps": {
+      "updated_by_human_at": 1633150837,
+      "lyrics_updated_at": 1589346278
+     },
+     "context": "IU (\uc544\uc774\uc720)",
+     "id": 5563438,
+     "image_url": "https://images.genius.com/dbf66e42dd8ef0cb3df2e5078d0c7d8d.600x600x1.jpg",
+     "link_title": "4AM by\u00a0IU\u00a0(\uc544\uc774\uc720)",
+     "title": "4AM",
+     "type": "Song",
+     "url": "https://genius.com/Iu-4am-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19827513",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19827513,
+      "pinned": false,
+      "share_url": "https://genius.com/19827513",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19827513/Iu-4am/4am",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7070936",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f533b19ed86a61f496ce5d35cc399821.500x500x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 7070936,
+         "iq": 177307,
+         "login": "biojaeson",
+         "name": "\u200bbiojaeson",
+         "role_for_display": "editor",
+         "url": "https://genius.com/biojaeson",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=nBpeJ-Nt_S8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/20226",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/corinne-bailey-rae-09.jpg",
+     "id": 20226,
+     "image_url": "https://s3.amazonaws.com/rapgenius/corinne-bailey-rae-09.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Corinne Bailey Rae",
+     "url": "https://genius.com/artists/Corinne-bailey-rae",
+     "iq": 1065
+    },
+    {
+     "api_path": "/artists/773994",
+     "header_image_url": "https://images.genius.com/ca187fe4d8426f37a0eea612c7eb3501.600x813x1.jpg",
+     "id": 773994,
+     "image_url": "https://images.genius.com/ca187fe4d8426f37a0eea612c7eb3501.600x813x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rod Bowkett",
+     "url": "https://genius.com/artists/Rod-bowkett"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/20226",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/corinne-bailey-rae-09.jpg",
+     "id": 20226,
+     "image_url": "https://s3.amazonaws.com/rapgenius/corinne-bailey-rae-09.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Corinne Bailey Rae",
+     "url": "https://genius.com/artists/Corinne-bailey-rae",
+     "iq": 1065
+    },
+    {
+     "api_path": "/artists/773994",
+     "header_image_url": "https://images.genius.com/ca187fe4d8426f37a0eea612c7eb3501.600x813x1.jpg",
+     "id": 773994,
+     "image_url": "https://images.genius.com/ca187fe4d8426f37a0eea612c7eb3501.600x813x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rod Bowkett",
+     "url": "https://genius.com/artists/Rod-bowkett"
+    }
+   ],
+   "artist": "IU (\uc544\uc774\uc720)",
+   "lyrics": "4AM Lyrics[Verse 1]\n\uc77c\uc5b4\ub09c \uac74\uc9c0\n\uc544\uc9c1 \uc7a0\ub4e4\uc9c0 \ubabb\ud55c \uac74\uc9c0\n\ub2f9\uc7a5\uc774 \ub0b4\uc77c\uc778\uc9c0 \uc624\ub298\uc778\uc9c0\n\uc5b4\uc820\uc9c0\ub3c4 \ubaa8\ub974\ub294 \uadf8\ub54c\n\n[Chorus]\n4AM rain again\n\uadf8\uc800 \uc18c\ub9b4 \ub4e3\uace0 \uc788\uc9c0\n\uac00\uc0ac \uc5c6\uc774\u2005\ud765\uc5bc\uac70\ub9ac\uc9c0\n\ucd09\ucd09\ud55c\u2005\uadf8 \uba5c\ub85c\ub514\n\uc815\uc2e0\uc5c6\uc774 \uc5b4\uc9c0\ub7ec\uc6b4\u2005\ube44\ud2b8\n\ud574\uac00 \ub728\uba74 \ud754\uc801\uc5c6\uc774\n\ubaa8\ub450 \uc78a\ud600\uc9c0\uaca0\uc9c0\n\n[Verse 2]\n\uc870\uae08 \ubb34\uac70\uc6cc\uc9c4 \uba38\ub9ac\uc5d4\n\ub300\ub2f5\ud560\u2005\uc218 \uc5c6\ub294 \uc9c8\ubb38\ub4e4\n\uc77c\ub801\uc774\ub294 \uc790\ub3d9\ucc28\ub4e4\n\ubd88\ube5b\uc744 \uc138\uc5b4\ubd10\ub3c4\n\uc138\uc0c1\uc5d4 \ub098\ubfd0\uc778\ub4ef\ud574\n[Chorus]\n4AM never end\n\uc2dc\uacd7\ubc14\ub298\ub9cc \ubc14\ub77c\ubcf4\ub124\n\uc5f0\ub77d\ud560 \ub204\uad70\uac00\ub3c4\u205f\uc5c6\uc774\n\uc791\uc544\uc9c0\ub294\u205f\ube57\uc18c\ub9ac\nI\u205fjust sing for\u205fme the lullaby\n\ub208\uc744\u205f\ub728\uba74 \ud754\uc801\uc5c6\uc774\n\ubaa8\ub450 \uc78a\ud600\uc9c0\uaca0\uc9c0\n\n[Bridge]\nDum dum dum dum\nDum dum dum dum\nDum dum dum dum\n\n[Chorus]\n4AM rain again\n\uadf8\uc800 \uc18c\ub9b4 \ub4e3\uace0 \uc788\uc9c0\n\uac00\uc0ac \uc5c6\uc774 \ud765\uc5bc\uac70\ub9ac\uc9c0\n\ucd09\ucd09\ud55c \uadf8 \uba5c\ub85c\ub514\n\uc815\uc2e0\uc5c6\uc774 \uc5b4\uc9c0\ub7ec\uc6b4 \ube44\ud2b8\n\ud574\uac00 \ub728\uba74 \ud754\uc801\uc5c6\uc774\n\ubaa8\ub450 \uc78a\ud600\uc9c0\uaca0\uc9c0Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3933051",
+   "artist_names": "IU (\uc544\uc774\uc720)",
+   "full_title": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips) by\u00a0IU\u00a0(\uc544\uc774\uc720)",
+   "header_image_thumbnail_url": "https://images.genius.com/9b3f09768cfa587cf15ab7ccdb3ad1e6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9b3f09768cfa587cf15ab7ccdb3ad1e6.600x600x1.jpg",
+   "id": 3933051,
+   "lyrics_owner_id": 2916573,
+   "lyrics_state": "complete",
+   "path": "/Iu-50cm-between-the-lips-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b3f09768cfa587cf15ab7ccdb3ad1e6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b3f09768cfa587cf15ab7ccdb3ad1e6.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips)",
+   "title_with_featured": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips)",
+   "url": "https://genius.com/Iu-50cm-between-the-lips-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/264991",
+    "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+    "id": 264991,
+    "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "IU (\uc544\uc774\uc720)",
+    "url": "https://genius.com/artists/Iu"
+   },
+   "apple_music_id": "786863015",
+   "apple_music_player_url": "https://genius.com/songs/3933051/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3933051' class='rg_embed_link' data-song-id='3933051'>Read <a href='https://genius.com/Iu-50cm-between-the-lips-lyrics'>\u201c\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips)\u201d by IU\u00a0(\uc544\uc774\uc720)</a> on Genius</div> <script crossorigin src='//genius.com/songs/3933051/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-12-20",
+   "release_date_for_display": "December 20, 2013",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/289867",
+    "cover_art_url": "https://images.genius.com/1b7eab3d8297e43a95e93b02d625674d.600x600x1.jpg",
+    "full_title": "Modern Times by IU (\uc544\uc774\uc720)",
+    "id": 289867,
+    "name": "Modern Times",
+    "url": "https://genius.com/albums/Iu/Modern-times",
+    "artist": {
+     "api_path": "/artists/264991",
+     "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+     "id": 264991,
+     "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "IU (\uc544\uc774\uc720)",
+     "url": "https://genius.com/artists/Iu"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2916573,
+    "annotator_login": "kuramocchi",
+    "api_path": "/referents/15295810",
+    "classification": "needs_exegesis",
+    "fragment": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips)",
+    "id": 15295810,
+    "is_description": true,
+    "path": "/15295810/Iu-50cm-between-the-lips/50cm-between-the-lips",
+    "range": {
+     "content": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips)"
+    },
+    "song_id": 3933051,
+    "url": "https://genius.com/15295810/Iu-50cm-between-the-lips/50cm-between-the-lips",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3933051",
+     "client_timestamps": {
+      "updated_by_human_at": 1604816700,
+      "lyrics_updated_at": 1589354415
+     },
+     "context": "IU (\uc544\uc774\uc720)",
+     "id": 3933051,
+     "image_url": "https://images.genius.com/9b3f09768cfa587cf15ab7ccdb3ad1e6.600x600x1.jpg",
+     "link_title": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips) by\u00a0IU\u00a0(\uc544\uc774\uc720)",
+     "title": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips)",
+     "type": "Song",
+     "url": "https://genius.com/Iu-50cm-between-the-lips-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15295810",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15295810,
+      "pinned": false,
+      "share_url": "https://genius.com/15295810",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15295810/Iu-50cm-between-the-lips/50cm-between-the-lips",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2916573",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8y9lgbz6yr",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8y9lgbz6yr",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8y9lgbz6yr",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8y9lgbz6yr",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/il83butzbcm",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2916573,
+         "iq": 3272,
+         "login": "kuramocchi",
+         "name": "kuramocchi",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/kuramocchi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sBVca5KOpkM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1263150",
+     "header_image_url": "https://images.genius.com/d9b0c66880ac6566c0f1c6f7e1bb7cc5.300x300x1.jpg",
+     "id": 1263150,
+     "image_url": "https://images.genius.com/d9b0c66880ac6566c0f1c6f7e1bb7cc5.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G. Gorilla",
+     "url": "https://genius.com/artists/G-gorilla"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1263150",
+     "header_image_url": "https://images.genius.com/d9b0c66880ac6566c0f1c6f7e1bb7cc5.300x300x1.jpg",
+     "id": 1263150,
+     "image_url": "https://images.genius.com/d9b0c66880ac6566c0f1c6f7e1bb7cc5.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G. Gorilla",
+     "url": "https://genius.com/artists/G-gorilla"
+    }
+   ],
+   "artist": "IU (\uc544\uc774\uc720)",
+   "lyrics": "\uc785\uc220 \uc0ac\uc774 (50cm) (Between the Lips) Lyrics[Verse 1]\nOh darling \ub118\uc9c0 \ub9d0\uc544\uc694\n\ub450 \uc785\uc220 \uc0ac\uc774 \uac70\ub9b0\n\uc544\uc9c1\uae4c\uc9c4 50cm\n\ub2ec\ucf64\ud55c \ub9d0\ub85c \ubed4\ud55c \ub9d0\ub85c\n\ucc29\ud55c \ub098\ub97c \uc720\ud639\ud558\ub824\n\ud558\uc9c4 \ub9d0\uc544\uc8fc\uc138\uc694\n\n[Chorus]\n\uc0ac\ub791\uc740, \uc774 \uc0ac\ub791\uc740\n\uc644\ubcbd\ud560 \uac70\uc5d0\uc694\nLargo, adagio \uc870\uae09\ud574 \ub9d0\uc544\uc694\nSlowly, baby slowly\nVery slow \ub290\ub9b0 \ud15c\ud3ec\ub85c\n\n[Verse 2]\nOh darling \ub118\uc9c0 \ub9d0\uc544\uc694\n\ub450 \uc785\uc220 \uc0ac\uc774 \uac70\ub9b0\n\uc544\uc9c1\uae4c\uc9c4 50cm\n\uc194\uc9c1\ud55c \ub9d0\ub85c, \uadf8 \ub9d0\ub85c\n\uc21c\uacb0\ud55c \uadf8\ub300 \ub9d8\uc744\n\ub0b4\uac00 \ub290\ub084 \ub54c\uae4c\uc9c4\n\uadf8 \uac70\ub9ac\ub294 50cm\n[Chorus]\n\uc0ac\ub791\uc740, \uc774 \uc0ac\ub791\uc740\n\uc644\ubcbd\ud560 \uac70\uc5d0\uc694\nLargo, adagio \uc870\uae09\ud574 \ub9d0\uc544\uc694\nSlowly, baby slowly\nVery slow \ub290\ub9b0 \ud15c\ud3ec\ub85c\n\n\uc6b0\ub9ac \uc0ac\ub791\uc740, \uc774 \uc0ac\ub791\uc740\n\uc9dc\ub9bf\ud560 \uac70\uc5d0\uc694\nLove ya, baby love ya\n\uadf8\ub300 \uc717 \uc785\uc220\uc5d0\n\ube68\uac04 \ub098\uc758 \uc544\ub7ab \uc785\uc220\uc774\n\ub2ff\uc744 \ub54c \ucbe4\uc5d4\n\n[Verse 3]\n\uc81c\ubc1c \ub118\uc9c0 \ub9d0\uc544\uc694\n\ub450 \uc785\uc220 \uc0ac\uc774 \uac70\ub9b0\n\uc544\uc9c1\uae4c\uc9c4 50cm\n\ub2ec\ucf64\ud55c \ub9d0\ub85c, \uadf8 \ub9d0\ub85c\n\uc81c\ubc1c \ud754\ud55c \uc5ec\uc790\ub85c\n\ub9cc\ub4e4\uc9c4 \ub9d0\uc544\uc8fc\uc138\uc694\n\n[Bridge]\n\uc870\uae08\ub9cc \ub0a0 \uc544\uaef4\uc918\uc694\n\ub450 \uc785\uc220 \uc0ac\uc778 \uc544\uc9c1 50cm\n[Outro]\nHush, hush, baby\nPush me, oh baby\n\uc774 \uc791\uc740 \ubd80\ud0c1\ub9cc \ub4e4\uc5b4\uc918\uc694\nHush, hush, baby\nCherish me, babyEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5025467",
+   "artist_names": "IU (\uc544\uc774\uc720)",
+   "full_title": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time) by\u00a0IU\u00a0(\uc544\uc774\uc720)",
+   "header_image_thumbnail_url": "https://images.genius.com/af59a038d78e7b57abddc3648eade3a0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/af59a038d78e7b57abddc3648eade3a0.600x600x1.jpg",
+   "id": 5025467,
+   "lyrics_owner_id": 5381630,
+   "lyrics_state": "complete",
+   "path": "/Iu-above-the-time-lyrics",
+   "pyongs_count": 1,
+   "song_art_image_thumbnail_url": "https://images.genius.com/af59a038d78e7b57abddc3648eade3a0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/af59a038d78e7b57abddc3648eade3a0.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14344
+   },
+   "title": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time)",
+   "title_with_featured": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time)",
+   "url": "https://genius.com/Iu-above-the-time-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/264991",
+    "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+    "id": 264991,
+    "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "IU (\uc544\uc774\uc720)",
+    "url": "https://genius.com/artists/Iu"
+   },
+   "apple_music_id": "1488300931",
+   "apple_music_player_url": "https://genius.com/songs/5025467/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5025467' class='rg_embed_link' data-song-id='5025467'>Read <a href='https://genius.com/Iu-above-the-time-lyrics'>\u201c\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time)\u201d by IU\u00a0(\uc544\uc774\uc720)</a> on Genius</div> <script crossorigin src='//genius.com/songs/5025467/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-11-18",
+   "release_date_for_display": "November 18, 2019",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/569329",
+    "cover_art_url": "https://images.genius.com/570f182ed6c180ebb64f16182550dda2.1000x1000x1.jpg",
+    "full_title": "Love poem by IU (\uc544\uc774\uc720)",
+    "id": 569329,
+    "name": "Love poem",
+    "url": "https://genius.com/albums/Iu/Love-poem",
+    "artist": {
+     "api_path": "/artists/264991",
+     "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+     "id": 264991,
+     "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "IU (\uc544\uc774\uc720)",
+     "url": "https://genius.com/artists/Iu"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/999961",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650039474",
+       "id": 999961,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650039474",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Lee Min Soo (\uc774\ubbfc\uc218)",
+       "url": "https://genius.com/artists/Lee-min-soo"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7070936,
+    "annotator_login": "biojaeson",
+    "api_path": "/referents/19844691",
+    "classification": "needs_exegesis",
+    "fragment": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time)",
+    "id": 19844691,
+    "is_description": true,
+    "path": "/19844691/Iu-above-the-time/Above-the-time",
+    "range": {
+     "content": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time)"
+    },
+    "song_id": 5025467,
+    "url": "https://genius.com/19844691/Iu-above-the-time/Above-the-time",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5025467",
+     "client_timestamps": {
+      "updated_by_human_at": 1589488762,
+      "lyrics_updated_at": 1574088280
+     },
+     "context": "IU (\uc544\uc774\uc720)",
+     "id": 5025467,
+     "image_url": "https://images.genius.com/af59a038d78e7b57abddc3648eade3a0.600x600x1.jpg",
+     "link_title": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time) by\u00a0IU\u00a0(\uc544\uc774\uc720)",
+     "title": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time)",
+     "type": "Song",
+     "url": "https://genius.com/Iu-above-the-time-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19844691",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19844691,
+      "pinned": false,
+      "share_url": "https://genius.com/19844691",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19844691/Iu-above-the-time/Above-the-time",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7070936",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6d9e99f7076c43d892c37c16588b104a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f533b19ed86a61f496ce5d35cc399821.500x500x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 7070936,
+         "iq": 177307,
+         "login": "biojaeson",
+         "name": "\u200bbiojaeson",
+         "role_for_display": "editor",
+         "url": "https://genius.com/biojaeson",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/8388577",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ip3akdtz9q",
+    "human_readable_role_for_display": "Staff",
+    "id": 8388577,
+    "iq": 59823,
+    "login": "BaoTumbao",
+    "name": "BaoTumbao",
+    "role_for_display": "staff",
+    "url": "https://genius.com/BaoTumbao",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=R3Fwdnij49o"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/999961",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650039474",
+     "id": 999961,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650039474",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lee Min Soo (\uc774\ubbfc\uc218)",
+     "url": "https://genius.com/artists/Lee-min-soo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/264991",
+     "header_image_url": "https://images.genius.com/cd04ce64b7beef548b40d26762526940.610x257x1.jpg",
+     "id": 264991,
+     "image_url": "https://images.genius.com/d13f3b607bd00a6f4d75cd8c516ba775.460x460x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "IU (\uc544\uc774\uc720)",
+     "url": "https://genius.com/artists/Iu"
+    }
+   ],
+   "artist": "IU (\uc544\uc774\uc720)",
+   "lyrics": "\uc2dc\uac04\uc758 \ubc14\uae65 (Above The Time) Lyrics[\uc544\uc774\uc720 \"\uc2dc\uac04\uc758 \ubc14\uae65\" \uac00\uc0ac]\n\n[Verse 1]\n\uc11c\ub85c\ub97c \ub2ee\uc544 \uae30\uc6b8\uc5b4\uc9c4 \uc0b6\n\uc18c\uc6d0\uc744 \ub2f4\uc544 \ucc28\uc624\ub974\ub294 \ub2ec\n\ud558\ub824\ub2e4 \ub9cc \uad04\ud638 \uc18d\uc758 \ub9d0\n\uc774\uc81c\uc57c \uc74c \uc74c \uc74c\n\n[Verse 2]\n\uc5b4\ub514\ub3c4 \ub2ff\uc9c0\u2005\uc54a\ub294\u2005\ub098\uc758 \ub2fb\n\ub10c \uc601\uc6d0\ud788\u2005\ub3c4\ucc29\ud560 \uc218 \uc5c6\ub294 \uc12c \uac19\uc544\n\ud5e4\ub9e4\ub358 \ub0a0\n\uc774\uc81c\uc57c\u2005\uc74c \uc74c \uc74c\n\n[Pre-Chorus]\n\uae30\ub85d\ud558\uc9c0 \uc54a\uc544\ub3c4\n\ub0b4\uac00 \ub110 \uc804\ubd80 \uae30\uc5b5\ud560 \ud14c\ub2c8\uae4c\n[Chorus]\n\uae30\ub2e4\ub824\n\uae30\uc5b4\uc774 \uc6b0\ub9ac\uac00 \ub9cc\ub098\uba74\n\uc2dc\uac04\uc758 \ud14c\ub450\ub9ac \ubc14\uae65\uc5d0\uc11c\n\uacfc\uac70\ub97c \ubc1f\uc9c0 \uc54a\uace0 \uc120\ub2e4\uba74\n\uc228\uc774 \ucc28\uac8c \ucda4\uc744 \ucd94\uaca0\uc5b4\n\n[Verse 3]\n\ub0ae\uc5d0\ub3c4 \ubc1d\uc9c0 \uc54a\uc740 \ub098\uc758 \ubc16\n\ub05d\uc5c6\ub294 \ubc24 \ub0a8\uaca8\uc9c4 \ubc18\n\ub10c \uc5b4\ub5a8\uae4c \ub098\uc640 \uac19\uc744\uae4c\n\uc54c \uc218 \uc5c6\uc74c\uc5d0 \uc544\ud30c\uc9c0\ub358 \ub9d8\n\n[Verse 4]\n\ub354 \uba40\ub9ac \uc790\uc720 \uadf8 \uc704\ub85c \uac00\uc790\n\ub0b4\uc77c\uc774 \uc6b0\ub9b4 \ucc3e\uc9c0 \ubabb\ud560\n\uacf3\uc5d0\uc11c \uae30\uc058\uac8c \ub9cc\ub098\n\uc774\uc81c\uc57c\n\n[Pre-Chorus]\n\ud55c\ub208\uc5d0 \ucc3e\uc9c0 \ubabb\ud574\ub3c4 \ub3fc\n\ub0b4\uac00 \ub110 \uc54c\uc544\ubcfc \ud14c\ub2c8\uae4c\n\n[Chorus]\n\uae30\ub2e4\ub824\n\uae30\uc5b4\uc774 \uc6b0\ub9ac\uac00 \ub9cc\ub098\uba74\n\uc2dc\uac04\uc758 \ud14c\ub450\ub9ac \ubc14\uae65\uc5d0\uc11c\n\uacfc\uac70\ub97c \ubc1f\uc9c0 \uc54a\uace0 \uc120\ub2e4\uba74\n\uc228\uc774 \ucc28\uac8c \ucda4\uc744 \ucd94\uaca0\uc5b4\n[Instrumental Interlude]\n\n[Bridge]\n\ub4dc\ub514\uc5b4 (\ub4dc\ub514\uc5b4)\n\uae30\ub2e4\ub9bc\uc758 \uc774\uc720\ub97c \ub9cc\ub098\ub7ec (\ub9cc\ub098\ub7ec)\n\uafc8\uacb0\uc5d0\ub3c4 \uc78a\uc9c0 \uc54a\uc558\ub358\n\uc7a0\uacb0\uc5d0\ub3c4 \uc78a\uc744 \uc218 \uc5c6\uc5c8\ub358\n\ub108\uc758 \uc774\ub984\uc744 \ubd88\ub7ec \uc904\uac8c\n\n[Chorus]\n\uae30\ub2e4\ub824\n\uc783\uc5b4\ubc84\ub838\ub358 \ub110 \ub418\ucc3e\uc73c\ub7ec\n\uc5c9\ud0a4\uc5c8\ub358 \uc2dc\uac04\uc744 \uacac\ub514\uc5b4\n\ubbf8\ub798\ub97c \ucad3\uc9c0 \uc54a\uc744 \ub450 \ubc1c\ub85c\n\uc228\uc774 \ucc28\uac8c \ub2ec\ub824\uac00\uaca0\uc5b4\n\n[Post-Chorus]\n\uae34\uae34 \uc11c\uc0ac\ub97c \uac70\uccd0\n\ube44\ub85c\uc18c \uccab \uc904\ub85c \uc801\ud600\n\ub098 \ub450\ub824\uc6c0 \ub530\uc708 \uc5c6\uc5b4\n\n[Outro]\n\uc11c\ub85c\ub97c \uac10\uc544 \ud3ec\uac1c\uc5b4\uc9c4 \uc0b6\n\uadf8\ub4e4\uc744 \uac00\ub9cc \ub0b4\ub824\ubcf4\ub294 \ub2ec\n\uc5ec\uc804\ud788 \ub9ce\uc544 \ud558\uace0 \uc2f6\uc740 \ub9d0\n\uc6b0\ub9ac \uc880 \ubd10 \uaf2d \ud558\ub098 \uac19\uc5441Embed"
+  }
+ ]
+}
