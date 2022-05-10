@@ -3,3 +3,5 @@
 .ipynb_checkpoints/
 관련논문/
 감성사전/
+model/
+*.pptx
